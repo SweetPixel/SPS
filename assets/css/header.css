@@ -1,0 +1,40 @@
+header {
+  background-color: #090909;
+  color: #fff;
+  padding: 18px;
+  font-family: 'extended';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+header .left {
+  margin-right: auto;
+}
+
+header h3,
+header h4,
+header h5,
+header h1,
+header h2 {
+  margin: 0;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header .right a {
+  font-size: 18px;
+  padding: 0 12px;
+}
+
+.font-oblique {
+  font-family: 'oblique';
+}
+
+.logo {
+  letter-spacing: 4px;
+}

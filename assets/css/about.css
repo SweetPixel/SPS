@@ -1,0 +1,85 @@
+.about {
+  padding: 10px;
+  background: #25dfc3;
+  background: -webkit-linear-gradient(#25dfc3, #45a9c1);
+  background: -o-linear-gradient(#25dfc3, #45a9c1);
+  background: -moz-linear-gradient(#25dfc3, #45a9c1);
+  background: linear-gradient(#25dfc3, #45a9c1);
+}
+
+.about-text {
+  text-align: center;
+  color: #e6ff81;
+  font-size: 1.4rem;
+  font-family: koyu;
+  letter-spacing: .1rem;
+  margin: 10px 0;
+  line-height: 45px;
+}
+
+.about .flex-row {
+	flex-wrap: wrap;
+}
+
+.about-person {
+  width: 340px;
+  max-width: 340px;
+  min-width: 340px;
+  margin: 36px 18px;
+}
+
+.about-person .img-center {
+  width: 80%;
+}
+
+.person-name {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.6rem;
+  margin-bottom: 6px;
+}
+
+.person-desig {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 2px;;
+}
+
+@media only screen and (max-width: 1250px) {
+	.about-person {
+		width: 300px;
+		max-width: 300px;
+		min-width: 300px;
+	}
+}
+
+@media only screen and (max-width: 1160px) {
+	.about-person {
+		width: 260px;
+		max-width: 260px;
+		min-width: 260px;
+	}
+}
+
+@media only screen and (max-width: 950px) {
+	.about-person {
+		width: 180px;
+		max-width: 180px;
+		min-width: 180px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.about .flex-row {
+		display: flex;
+	}
+	.about-person {
+		width: 250px;
+		max-width: 250px;
+		min-width: 250px;
+	}
+}
