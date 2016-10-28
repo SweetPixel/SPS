@@ -32,16 +32,16 @@
 }
 
 .twitter .icon {
-  background-image: url('{{site.github.url}}/assets/icons/Sweet-Pixel-Studio-Games-Twitter-Button-Spritesheet-64x64.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button-Spritesheet-64x64.svg');
 }
 
 .instagram .icon {
-  background-image: url('{{site.github.url}}/assets/icons/Sweet-Pixel-Studio-Games-Instagram.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Instagram.svg');
   background-size: 100%;
 }
 
 .facebook .icon {
-  background-image: url('{{site.github.url}}/assets/icons/Sweet-Pixel-Studio-Games-Facebook.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook.svg');
   background-size: 100%;
 }
 
