@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'extended';
-  src: url(/assets/fonts/futura-extended.ttf);
+  src: url({{ baseurl }}/assets/fonts/futura-extended.ttf);
 }
 
 @font-face {
   font-family: 'oblique';
-  src: url(/assets/fonts/futura-oblique.ttf);
+  src: url({{ baseurl }}/assets/fonts/futura-oblique.ttf);
 }
 
 @font-face {
   font-family: 'koyu';
-  src: url(/assets/fonts/futura-koyu.ttf);
+  src: url({{ baseurl }}/assets/fonts/futura-koyu.ttf);
 }
 
 body {
