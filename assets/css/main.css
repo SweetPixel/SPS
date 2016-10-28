@@ -1,7 +1,3 @@
-@import url('/assets/css/header.css');
-@import url('/assets/css/home.css');
-@import url('/assets/css/services.css');
-@import url('/assets/css/about.css');
 @font-face {
   font-family: 'extended';
   src: url(/assets/fonts/futura-extended.ttf);
