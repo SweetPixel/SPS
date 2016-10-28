@@ -34,7 +34,7 @@ layout: default
       <div>
         <img style="width: 440px;" class="img-center" src="{{ site.github.url }}/assets/images/Sign-Up-Text.svg" alt="">
       </div>
-      <form class="contact-form">
+      <form id="contact-form" class="contact-form">
         <input type="text" placeholder="YOUR NAME">
         <input type="email" placeholder="YOUR EMAIL BELONGS HERE">
         <img src="{{site.github.url}}/assets/images/Indie-Games-Boom.svg" alt="">
