@@ -35,13 +35,16 @@ layout: default
         <img style="width: 440px;" class="img-center" src="{{ site.github.url }}/assets/images/Sign-Up-Text.svg" alt="">
       </div>
       <form id="contact-form" class="contact-form">
-        <input type="text" placeholder="YOUR NAME">
-        <input type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
-        <img src="{{site.github.url}}/assets/images/Indie-Games-Boom.svg" alt="">
+        <input style="width: 30%" type="text" placeholder="YOUR NAME">
+        <input style="width: 70%" type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
+        <a href="" class="boom">
+          <div class="icon"></div>
+        </a>
+        <!-- <img src="{{site.github.url}}/assets/images/Indie-Games-Boom.svg" alt=""> -->
       </form>
     </div>
   </div>
   <div class="footer">
-    <p style="color: #e6ff81">COPYRIGHT PROTECTED BY THE SWEET OVERLORDS OF DARKNESS</p>
+    <p style="color: #f51484">COPYRIGHT PROTECTED BY THE SWEET OVERLORDS OF DARKNESS</p>
   </div>
 </div>

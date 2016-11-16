@@ -27,32 +27,44 @@
 }
 
 .social-links .icon {
-  width: 64px;
-  height: 64px;
+  width: 4rem;
+  height: 4rem;
+  background-size: auto 100%;
 }
 
 .twitter .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button-Spritesheet-64x64.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button-100x100.svg');
 }
 
 .instagram .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Instagram.svg');
-  background-size: 100%;
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Instagram-Button-100x100.svg');
 }
 
 .facebook .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook.svg');
-  background-size: 100%;
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook-Button-100x100.svg');
 }
 
 .social-links a:hover .icon {
   background-position: -64px 0;
 }
 
+.boom:hover .icon {
+  background-position: -80px 0;
+}
+
+.boom .icon {
+  width: 5rem;
+  height: 5rem;
+  background-size: auto 100%;
+  background-image: url('../icons/Indie-Games-Boom-Button-100x100.svg');
+}
+
 .contact-form {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 67%;
+  margin: 0 auto;
   margin-top: 20px;
 }
 
@@ -69,12 +81,15 @@
 .contact-form input::-webkit-input-placeholder {
   color: #f51484;
 }
+
 .contact-form input::-moz-placeholder {
   color: #f51484;
 }
+
 .contact-form input:-ms-input-placeholder {
   color: #f51484;
 }
+
 .contact-form input:-moz-placeholder {
   color: #f51484;
 }
