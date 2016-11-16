@@ -36,9 +36,12 @@ layout: default
       </div>
       <form id="contact-form" class="contact-form">
         <input type="text" placeholder="YOUR NAME">
-        <input type="email" placeholder="YOUR EMAIL BELONGS HERE">
+        <input type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
         <img src="{{site.github.url}}/assets/images/Indie-Games-Boom.svg" alt="">
       </form>
     </div>
+  </div>
+  <div class="footer">
+    <p style="color: #e6ff81">COPYRIGHT PROTECTED BY THE SWEET OVERLORDS OF DARKNESS</p>
   </div>
 </div>
