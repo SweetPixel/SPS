@@ -9,7 +9,7 @@ layout: default
 	  <img src="{{ site.github.url }}/assets/images/banners/Sweet-Pixel-Studio-Games-Developer-Pakistan-UK.svg" alt="">
 	</div>
 	<div style="width: 90%; margin: 0 auto;">
-		<p class="about-text">We are a small and scrappy clan of creative professionals coming from a broad range of experience and education who have one thing in common: Our sheer love for all things gaming.</p>
+		<p class="about-text">We are a small and scrappy clan of creative professionals coming from a broad range of experience and education who share one thing in common: Our sheer love for all things gaming.</p>
 	</div>
 	<div class="about-text" style="margin-top: 26px;"><img style="width: 70%;" src="{{ site.github.url }}/assets/images/back-stickers/Games-Are-Life.svg" alt=""></div>
 	<div class="flex-row">
@@ -56,7 +56,7 @@ layout: default
 	</div>
 	<div style="width: 90%; margin: 0 auto;">
 		<p class="about-text">Are you also someone who believes that games are an awesome medium to create breathtaking new experieces?</p>
-		<p class="about-text">Come join our ethereal workspace or just stay in your man-cave and work online.<br>who cares, right?</p>
+		<p class="about-text">Come join our ethereal workspace or just stay in your man-cave and work online.<br>who cares right?</p>
 	</div>
 	<div style="margin-top: 60px;">
 		<div class="sps-button-container services-link">
