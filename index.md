@@ -11,7 +11,7 @@ layout: default
     <div class="game-container">
       <img class="img-center" src="{{ site.github.url }}/assets/images/games/Abode-Horror-Adventure-Indie-Game-New.svg" alt="">
       <div class="sps-button-container game-link">
-        <a class="sps-button">VISIT STORE</a>
+        <a href="http://gamejolt.com/games/abode/177072" target="_blank" class="sps-button">VISIT STORE</a>
         <div class="shadow"></div>
       </div>
     </div>
@@ -27,9 +27,9 @@ layout: default
     </div>
     <div>
       <div class="social-links">
-        <a class="twitter" href=""><div class="icon"></div></a>
-        <a class="instagram" href=""><div class="icon"></div></a>
-        <a class="facebook" href=""><div class="icon"></div></a>
+        <a class="twitter" href="https://twitter.com/sweetpixelstdio" target="_blank"><div class="icon"></div></a>
+        <a class="instagram" href="https://www.instagram.com/sweetpixelstudio/" target="_blank"><div class="icon"></div></a>
+        <a class="facebook" href="https://www.facebook.com/sweetpixelstudio/" target="_blank"><div class="icon"></div></a>
       </div>
       <div>
         <img style="width: 440px;" class="img-center" src="{{ site.github.url }}/assets/images/Sign-Up-Text.svg" alt="">

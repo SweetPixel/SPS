@@ -8,7 +8,7 @@ layout: default
 	  <img src="{{ site.github.url }}/assets/images/banners/Video-Games-Services-South-East-Asia-Company.svg" alt="">
 	</div>
 	<div>
-		<p class="banner-text">Life ain't hard but making games is,<br>So let's nerf those dev problems right outta the window in co-op mode.<br>We are sweet as sugar and are never gonna go leroy on you.</p>
+		<p class="banner-text">Life ain't hard but making games is,<br>So let's nerf those dev problems right outta window in co-op mode.<br>We are sweet as sugar and are never gonna go leroy on you.</p>
 		<div class="banner-text" style="margin-top: 26px;">Check out our full combo of current abilities down below:</div>
 	</div>
 	<div class="flex-row">
@@ -18,13 +18,13 @@ layout: default
 		</div>
 		<div class="service">
 			<img class="img-center" src="{{ site.github.url }}/assets/images/games/Video-Games-2D-3D-Animations-Service.svg" alt="">
-			<p class="banner-text">"bad animations saved that game"<br>said noone ever</p>
+			<p class="banner-text">"bad animations saved that game"<br>said no one ever</p>
 		</div>
 	</div>
 	<div class="flex-row">
 		<div class="service">
 			<img class="img-center" src="{{ site.github.url }}/assets/images/games/Video-Games-Development-Unity-Engine-Service.svg" alt="">
-			<p class="banner-text">we'll help you develop the toughest boss-fight ever. because, why not?</p>
+			<p class="banner-text">we'll help you develop the toughest boss-fight ever,	 cuz why not?!</p>
 		</div>
 		<div class="service">
 			<img class="img-center" src="{{ site.github.url }}/assets/images/games/Video-Games-Quality-Assurance-Service.svg" alt="">
@@ -40,7 +40,7 @@ layout: default
 	</div>
 	<div style="margin-top: 60px;">
 		<div class="sps-button-container services-link">
-		  <a href="{{site.github.url}}/#contact-form" class="sps-button services-link">GET IN TOUCH</a>
+		  <a href="mailto:hello@sweetpixelstudios.com?subject=SPS Service Request" class="sps-button services-link">GET IN TOUCH</a>
 		  <div class="shadow"></div>
 		</div>
 	</div>

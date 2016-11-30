@@ -60,7 +60,7 @@ layout: default
 	</div>
 	<div style="margin-top: 60px;">
 		<div class="sps-button-container services-link">
-		  <a href="{{site.github.url}}/#contact-form" class="sps-button services-link">SHARE YOUR WORK EXP</a>
+		  <a href="mailto:hello@sweetpixelstudios.com?subject=Work Experience/Portfolio for Job Openings at SPS" class="sps-button services-link">SHARE YOUR WORK EXP</a>
 		  <div class="shadow"></div>
 		</div>
 	</div>
