@@ -13,7 +13,7 @@ layout: default
 	</div>
 	<div class="flex-row">
 		<div class="service">
-			<img class="img-center" src="{{ '/assets/images/games/Video-Games-2D-3D-Artwork-Service.svg' }}" alt="">
+			<img class="img-center"  src="{{ '/assets/images/games/Video-Games-2D-3D-Artwork-Service.svg' }}" alt="">
 			<p class="banner-text">it's just something we get...naturally</p>
 		</div>
 		<div class="service">

@@ -10,7 +10,7 @@ layout: default
 	</div>
 	<div style="width: 90%; margin: 0 auto;">
 		<p class="about-text">We are a small and scrappy clan of creative professionals coming from a broad range of experience and education who have one thing in common: Our sheer love for all things gaming.</p>
-		<div class="about-text" style="margin-top: 26px;"><img style="width: 64%" src="{{ '/assets/images/back-stickers/Games-Are-Life.svg' }}" alt=""></div>
+		<div class="about-text" style="margin-top: 26px;"><img style="width: 100%" src="{{ '/assets/images/back-stickers/Games-Are-Life.svg' }}" alt=""></div>
 	</div>
 	<div class="flex-row">
 		<div class="about-person">

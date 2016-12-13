@@ -10,8 +10,9 @@ layout: default
   <div>
     <div class="game-container">
       <img class="img-center" src="{{ '/assets/images/games/Abode-Horror-Adventure-Indie-Game-New.svg' }}" alt="">
+      
       <div class="sps-button-container game-link">
-        <a class="sps-button">VISIT STORE</a>
+        <a  class="sps-button" href="">VISIT STORE</a>
         <div class="shadow"></div>
       </div>
     </div>
@@ -21,7 +22,7 @@ layout: default
     <div>
       <span class="services-message">OR CHECK OUT</span>
       <div class="sps-button-container services-link">
-        <a href="/services/" class="sps-button services-link">OUR BADASS SERVICES <span style="font-size: 50px; line-height: 14px; padding-left: 10px;">></span></a>
+        <a  href="/services/" class="sps-button services-link">OUR BADASS SERVICES <span style="font-size: 50px; line-height: 14px; padding-left: 10px;">></span></a>
         <div class="shadow"></div>
       </div>
     </div>
@@ -37,7 +38,10 @@ layout: default
       <form class="contact-form">
         <input type="text" placeholder="YOUR NAME">
         <input type="email" placeholder="YOUR EMAIL BELONGS HERE">
-        <img src="{{'/assets/images/Indie-Games-Boom.svg'}}" alt="">
+        <div class="subscribe">
+      <a class="boom" href="" type="submit"> <div class="image"></div>
+      </a>
+      </div>
       </form>
     </div>
   </div>

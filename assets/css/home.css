@@ -16,6 +16,16 @@
   text-align: center;
 }
 
+.sps-button-container.game-link a:hover  {
+  color: #3AB4FF;
+  text-shadow: 2px 2px 0px #F51484;
+  background-color: #6E1F75;
+}
+.sps-button-container.services-link a:hover {
+  color: #3AB4FF;
+  text-shadow: 2px 2px 0px #F51484;
+  background-color: #6E1F75;
+}
 .social-links {
   display: flex;
   justify-content: center;
@@ -27,27 +37,29 @@
 }
 
 .social-links .icon {
-  width: 64px;
-  height: 64px;
+  width: 100px;
+  height: 100px;
 }
 
 .twitter .icon {
-  background-image: url('/assets/icons/Sweet-Pixel-Studio-Games-Twitter-Button-Spritesheet-64x64.svg');
+  background-image: url('/assets/icons/Sweet-Pixel-Studio-Games-Twitter-Button100x100.svg');
+
 }
 
 .instagram .icon {
-  background-image: url('/assets/icons/Sweet-Pixel-Studio-Games-Instagram.svg');
-  background-size: 100%;
+  background-image: url('/assets/icons/Sweet-Pixel-Studio-Games-Instagram-Button100x100.svg');
+  
 }
 
 .facebook .icon {
-  background-image: url('/assets/icons/Sweet-Pixel-Studio-Games-Facebook.svg');
-  background-size: 100%;
+  background-image: url('/assets/icons/Sweet-Pixel-Studio-Games-Facebook-Button.svg');
+  
 }
 
-.social-links a:hover .icon {
-  background-position: -64px 0;
+.social-links a:hover  .icon {
+  background-position: -100px 0px;
 }
+
 
 .contact-form {
   display: flex;
@@ -81,4 +93,15 @@
 
 .contact-form input[type="email"] {
   width: 28%;
+}
+.contact-form .image {
+  width: 100px;
+  height: 100px;
+}
+.boom .image {
+  background-image: url('/assets/icons/Indie-Games-Boom-Button-100x100.svg');
+  
+}
+.contact-form a:hover .image {
+  background-position: -100px 0px;
 }

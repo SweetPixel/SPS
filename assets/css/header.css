@@ -20,7 +20,9 @@ header h1,
 header h2 {
   margin: 0;
 }
-
+.sps-button-container.game-link a:hover  .shadow {
+  color: 6E1F75;
+}
 header a {
   color: #fff;
   text-decoration: none;
