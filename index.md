@@ -42,6 +42,10 @@ layout: default
       <a class="boom" href="" type="submit"> <div class="image"></div>
       </a>
       </div>
+      <div class="Press-This">
+      <img  class="img-hand" src="{{ '/assets/images/back-stickers/Press-This.svg' }}" alt="">
+      
+      </div>
       </form>
     </div>
   </div>
