@@ -44,7 +44,12 @@ layout: default
 		  <div class="shadow"></div>
 		</div>
 	</div>
+	<footer>
 	<div class="footer">
-		<p>COPYRIGHT PROTECTED BY THE SAUCY ANGELS OF BEAUTY</p>
-	</div>
+		<p style="z-index: 10; position: relative; top: 130px;">COPYRIGHT PROTECTED BY THE SAUCY ANGELS OF BEAUTY</p>
+</div>	
+<div class="Level-Up" style="text-align: left; ">
+    <img  src="{{ '/assets/images/back-stickers/Level-Up.svg' }}" alt="">
+  </div>
+</footer>
 </div>

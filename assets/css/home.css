@@ -1,3 +1,4 @@
+
 .home {
   padding: 10px;
   background: #e5ea48;
@@ -122,3 +123,120 @@
 .contact-form a:hover .image {
   background-position: -100px 0px;
 }
+.Playstation-Icons img {
+position: absolute; top: 317px; right: 9%; width: 25%;
+}
+.Such-Indie img{
+position: absolute; top: 117px; right: 74%; width: 20%;
+}
+.Pew-Pew img{
+position: absolute; top: 327px; right: 71%; width: 15%;
+}
+.Smiley img{
+position: absolute; top: 480px; right: 86%; width: 15%;
+}
+.Start img{
+position: absolute; top: 550px; right: 8%; width: 36%;
+}
+.Sniper-Scope-Cursor img{
+position: absolute; top: 13px; right: 0%; width: 23%;
+}
+.Loading-Bar img{
+position: absolute; top: 1242px; right: 8%; width: 18%;
+}
+.Sweet-Deadpool img{
+position: absolute; top: 2000px; right: 80%; width: 20%;
+}
+/*.gameover img{
+  position: absolute; top: 2352px; right: 60%; width: 40%;
+}*/
+/*@media only screen and (max-width: 1440px) {
+
+  .gameover img{
+    position:  absolute;
+    /*top: 1857px;
+    right: 40%;
+    width: 60%;
+    top: 2417px;
+position: absolute;
+  }
+  .Sweet-Deadpool img{
+position: absolute;
+    top: 2097px;
+    right: 83%;
+    width: 17%;
+  
+  }
+  
+ }*/
+ 
+@media only screen and (max-width: 768px) {
+ .Start img{
+    position:  absolute;
+    right: 8%;
+    width: 36%;
+    top: 416px;
+
+  }
+ .Loading-Bar img{
+    position:  absolute;
+    right: 8%;
+    width: 18%;
+    top: 933px;
+ }
+ }
+ 
+@media only screen and (max-width: 1024px) {
+
+ /* .gameover img{
+    position:  absolute;
+    right: 40%;
+    width: 60%;
+    top: 1882px;
+
+  }*/
+  .Sweet-Deadpool img{
+position: absolute;
+    top: 1567px;
+    right: 81%;
+    width: 19%;
+  
+  }
+   .Playstation-Icons img{
+    position:  absolute;
+    right: 9%;
+    width: 25%;
+    top: 308px;
+
+  }
+  .Start img{
+    position:  absolute;
+    right: 8%;
+    width: 36%;
+    top: 433px;
+
+  }
+  .Smiley img{
+    position:  absolute;
+    right: 86%;
+    width: 15%;
+    top: 375px;
+
+  }
+ .Pew-Pew img{
+    position:  absolute;
+    right: 71%;
+    width: 15%;
+    top: 245px;
+
+  }
+  .Loading-Bar img{
+    position:  absolute;
+    right: 8%;
+    width: 18%;
+    top: 957px;
+ }
+ }
+ 
+
+ 

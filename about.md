@@ -71,7 +71,12 @@ layout: default
 	<div style="width: 90%; margin: 0 auto;">
 		<p class="about-text">"WHEN LIFE GIVES YOU LEMONS, MAKE LEMONADE TYCOON"</p>
 	</div>
+	<footer>
 	<div class="footer">
-		<p style="color: #e6ff81">COPYRIGHT PROTECTED BY THE SWEET 'N CUDDLY LAWYER BOTS OF SWEET PIXEL STUDIO</p>
+		<p style="color: #E6FF80; z-index: 10; position: relative; top: 130px;">COPYRIGHT PROTECTED BY THE SWEET 'N CUDDLY LAWYER BOTS OF SWEET PIXEL STUDIO</p>
 	</div>
-</div>
+<div class="indie-for-life" style="text-align: left; ">
+    <img  src="{{ '/assets/images/back-stickers/Indie-Games-Pakistan-UK.svg' }}" alt="">
+  </div>
+  </footer>
+  </div>
