@@ -5,7 +5,25 @@ layout: default
 ---
 <div class="home">
   <div class="banner">
-    <img src="{{ site.github.url }}/assets/images/banners/Sweet-Pixel-Studio-Indie-Games-Pakistan.svg" alt="">
+    <img style="z-index: 10; position: relative;" src="{{ site.github.url }}/assets/images/banners/Sweet-Pixel-Studio-Indie-Games-Pakistan.svg" alt="">
+  </div>
+  <div class="Playstation-Icons">
+    <img src="{{ site.github.url }}/assets/images/back-stickers/Playstation-Icons.png" alt="">
+  </div>
+  <div class="Such-Indie">
+    <img src="{{ site.github.url }}/assets/images/back-stickers/Such-Indie.svg" alt="">
+  </div>
+  <div class="Pew-Pew">
+    <img src="{{ site.github.url }}/assets/images/back-stickers/Pew-Pew.png" alt="">
+  </div>
+  <div class="Smiley">
+    <img src="{{ site.github.url }}/assets/images/back-stickers/Smiley.png" alt="">
+  </div>
+  <div class="Start">
+    <img style="" src="{{ site.github.url }}/assets/images/back-stickers/Start.svg" alt="">
+  </div>
+  <div class="Sniper-Scope-Cursor">
+    <img src="{{ site.github.url }}/assets/images/back-stickers/Sniper-Scope-Cursor.svg" alt="">
   </div>
   <div>
     <div class="game-container">
@@ -15,8 +33,14 @@ layout: default
         <div class="shadow"></div>
       </div>
     </div>
+    <div class="Loading-Bar">
+      <img src="{{ site.github.url }}/assets/images/back-stickers/Loading-Bar.png" alt="">
+    </div>
     <div class="game-container">
       <img class="img-center" src="{{ site.github.url }}/assets/images/games/Punkbusters-Action-RPG-Cyberpunk-Indie-Game-New.svg" alt="">
+    </div>
+    <div class="Sweet-Deadpool">
+      <img src="{{ site.github.url }}/assets/images/back-stickers/Sweet-Deadpool.svg" alt="">
     </div>
     <div>
       <span class="services-message">OR CHECK OUT</span>
@@ -27,21 +51,36 @@ layout: default
     </div>
     <div>
       <div class="social-links">
-        <a class="twitter" href="https://twitter.com/sweetpixelstdio" target="_blank"><div class="icon"></div></a>
-        <a class="instagram" href="https://www.instagram.com/sweetpixelstudio/" target="_blank"><div class="icon"></div></a>
-        <a class="facebook" href="https://www.facebook.com/sweetpixelstudio/" target="_blank"><div class="icon"></div></a>
+        <a class="twitter" href="https://twitter.com/sweetpixelstdio" target="_blank">
+          <div class="icon"></div>
+        </a>
+        <a class="instagram" href="https://www.instagram.com/sweetpixelstudio/" target="_blank">
+          <div class="icon"></div>
+        </a>
+        <a class="facebook" href="https://www.facebook.com/sweetpixelstudio/" target="_blank">
+          <div class="icon"></div>
+        </a>
       </div>
       <div>
         <img style="width: 440px;" class="img-center" src="{{ site.github.url }}/assets/images/Sign-Up-Text.svg" alt="">
       </div>
-      <form id="contact-form" class="contact-form">
-        <input style="width: 30%" type="text" placeholder="YOUR NAME">
-        <input style="width: 70%" type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
-        <a href="" class="boom">
-          <div class="icon"></div>
-        </a>
-        <!-- <img src="{{site.github.url}}/assets/images/Indie-Games-Boom.svg" alt=""> -->
-      </form>
+      <footer>
+        <form id="contact-form" class="contact-form">
+          <input style="width: 30%" type="text" placeholder="YOUR NAME">
+          <input style="width: 70%" type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
+          <div class="subscribe">
+            <a href="" class="boom" type="submit">
+              <div class="image"></div>
+            </a>
+          </div>
+          <div class="Press-This">
+            <img class="img-hand" src="{{ site.github.url }}/assets/images/back-stickers/Press-This.svg" alt="">
+          </div>
+        </form>
+        <div class="gameover" style="text-align: left;">
+          <img src="{{ site.github.url }}/assets/images/back-stickers/Game-Over1.svg" alt="">
+        </div>
+      </footer>
     </div>
   </div>
   <div class="footer">
