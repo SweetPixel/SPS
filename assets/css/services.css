@@ -7,6 +7,9 @@
   background: linear-gradient(#c93afe, #8b4ff8);
 }
 
+.touch-button .touch-shadow {
+  background-image: url('/assets/icons/Get-In-Touch-Email-Button-1000x200_V3.svg');
+}
 .banner-text {
   text-align: center;
   color: #f2ff1e;
