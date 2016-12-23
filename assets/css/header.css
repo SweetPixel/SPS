@@ -11,6 +11,10 @@ z-index: 10;
 position: relative;
 }
 
+header h3 {
+  font-size: 1.2rem;
+}
+
 header .left {
   margin-right: auto;
 }
@@ -31,7 +35,7 @@ header a {
 }
 
 header .right a {
-  font-size: 18px;
+  font-size: 1.2rem;
   padding: 0 12px;
 }
 

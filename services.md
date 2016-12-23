@@ -52,6 +52,6 @@ layout: default
 </div>	
 <div class="Level-Up" style="text-align: left; ">
     <img  src="{{ '/assets/images/back-stickers/Level-Up.svg' }}" alt="">
-  </div>
-</footer>
 </div>
+</footer>
+</div>  

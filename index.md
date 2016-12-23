@@ -44,7 +44,6 @@ layout: default
   </div>
     <div class="game-container">
     <div class="test-div">
-      
       <img class="img-center" src="{{ '/assets/images/games/Punkbusters-Action-RPG-Cyberpunk-Indie-Game-New.svg' }}" alt="">
     </div>
     </div>

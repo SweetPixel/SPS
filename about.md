@@ -78,5 +78,4 @@ layout: default
 <div class="indie-for-life" style="text-align: left; ">
     <img  src="{{ '/assets/images/back-stickers/Indie-Games-Pakistan-UK.svg' }}" alt="">
   </div>
-  </footer>
-  </div>
+  
