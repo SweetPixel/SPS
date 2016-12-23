@@ -17,7 +17,7 @@
   text-align: center;
 }
 
-.sps-button-container.game-link a:hover  {
+/*.sps-button-container.game-link a:hover  {
   color: #3AB4FF;
   text-shadow: 2px 2px 0px #F51484;
   background-color: #6E1F75;
@@ -26,7 +26,14 @@
   color: #3AB4FF;
   text-shadow: 2px 2px 0px #F51484;
   background-color: #6E1F75;
+}*/
+.bad-ass-button .btn-shadow {
+  background-image: url('/assets/icons/Games-Consultancy-Services-Button-1400x200.svg');
 }
+.visit-button .visit-shadow {
+  background-image: url('/assets/icons/Visit-GameJolt-Store-Button-500x150.svg');
+}
+
 .social-links {
   display: flex;
   justify-content: center;
@@ -185,7 +192,7 @@ position: absolute;
     top: 933px;
  }
  }
- 
+
 @media only screen and (max-width: 1024px) {
 
  /* .gameover img{

@@ -59,9 +59,9 @@ layout: default
 		<p class="about-text">Come join our ethereal workspace or just stay in your man-cave and work online.<br>who cares, right?</p>
 	</div>
 	<div style="margin-top: 60px;">
-		<div class="sps-button-container services-link">
-		  <a href="/services/" class="sps-button services-link">SHARE YOUR WORK EXP</a>
-		  <div class="shadow"></div>
+		<div class="button4">
+		  <a href="mailto:hello@sweetpixelstudio.com?subject=Work Experience/Portfolio for Job Openings at SPS" class="share-button ">
+		  <div class="share-shadow"></div></a>
 		</div>
 	</div>
 

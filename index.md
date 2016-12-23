@@ -27,34 +27,42 @@ layout: default
   </div>
   <div>
     <div class="game-container">
+      <div class="test-div">
+      <div class="test-div-inner">
       <img class="img-center" src="{{ '/assets/images/games/Abode-Horror-Adventure-Indie-Game-New.svg' }}" alt="">
-      
-      <div class="sps-button-container game-link">
-        <a  class="sps-button" href="http://gamejolt.com/games/abode/177072">VISIT STORE</a>
-        <div class="shadow"></div>
+      </div>
+      </div>
+      <div class="button2">
+        <a  class="visit-button" href="http://gamejolt.com/games/abode/177072">
+        <div class="visit-shadow"></div>  
+        </a>
+        
       </div>
     </div>
     <div class="Loading-Bar">
     <img  src="{{ '/assets/images/back-stickers/Loading-Bar.png' }}" alt="">
   </div>
     <div class="game-container">
+    <div class="test-div">
+      
       <img class="img-center" src="{{ '/assets/images/games/Punkbusters-Action-RPG-Cyberpunk-Indie-Game-New.svg' }}" alt="">
+    </div>
     </div>
     <div class="Sweet-Deadpool">
     <img  src="{{ '/assets/images/back-stickers/Sweet-Deadpool.svg' }}" alt="">
   </div>
     <div>
       <span class="services-message">OR CHECK OUT</span>
-      <div class="sps-button-container services-link">
-        <a  href="/services/" class="sps-button services-link">OUR BADASS SERVICES <span style="font-size: 50px; line-height: 14px; padding-left: 10px;">></span></a>
-        <div class="shadow"></div>
+      <div class="button1">
+        <a  class="bad-ass-button" href="/services/" ><div class="btn-shadow"></div>
+        </a>
       </div>
     </div>
     <div>
       <div class="social-links">
-        <a class="twitter" href=""><div class="icon"></div></a>
-        <a class="instagram" href=""><div class="icon"></div></a>
-        <a class="facebook" href=""><div class="icon"></div></a>
+        <a class="twitter" href="https://twitter.com/sweetpixelstdio"><div class="icon"></div></a>
+        <a class="instagram" href="https://www.instagram.com/sweetpixelstudio/"><div class="icon"></div></a>
+        <a class="facebook" href="https://www.facebook.com/sweetpixelstudio/"><div class="icon"></div></a>
       </div>
       <div>
         <img style="width: 440px;" class="img-center" src="{{ '/assets/images/Sign-Up-Text.svg' }}" alt="">
