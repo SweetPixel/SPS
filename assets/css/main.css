@@ -36,13 +36,63 @@ body {
 .game-container {
   position: relative;
 }
-
+.test-div {
+     border:2px solid #ceed48;
+     width:100%;
+ }
+ .test-div-inner {
+     padding-bottom:55%;
+     height:0;
+     position:relative;
+ }
+ 
+ .button4 {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .button4 .share-shadow {
+   width: 400px;
+   height: 71px;
+ }
+ 
+ .button4 a:hover .share-shadow {
+   background-position: -391px 0px;
+ }
+ .button3 {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .button3 .touch-shadow {
+   width: 497px;
+   height: 100px;
+ }
+ 
+ .button3 a:hover .touch-shadow {
+   background-position: -500px 0px;
+ }
+ 
+ .button2 {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .button2 .visit-shadow {
+   width: 250px;
+   height: 75px;
+ }
+ 
+ .button2 a:hover .visit-shadow {
+   background-position: -250px 0;
+ 
+}
 .sps-button-container {
   z-index: 1;
   position: relative;
 }
 
-.sps-button-container.game-link {
+/*.sps-button-container.game-link {
   position: absolute;
   width: 250px;
   bottom: 52px;
@@ -51,8 +101,18 @@ body {
   margin-left: auto;
   margin-right: auto;
   display: block;
-}
-
+}*/
+.button1 {
+   display: flex;
+   justify-content: center;
+ }
+.button1 .btn-shadow {
+   width: 700px;
+   height: 100px;
+ }
+ .button1 a:hover .btn-shadow {
+   background-position: -700px 0px;
+ }
 .sps-button {
   padding: 20px 0;
   text-decoration: none;

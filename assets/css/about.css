@@ -30,7 +30,9 @@
   min-width: 340px;
   margin: 36px 18px;
 }
-
+.share-button .share-shadow {
+   background-image: url('{{ site.github.url }}/assets/icons/Games-Development-Job-Pakistan-UK-Button_V2.svg');
+ }
 .about-person .img-center {
   width: 80%;
 }
@@ -53,12 +55,19 @@
 }
 
 @media only screen and (max-width: 1250px) {
-	.about-person {
+	
+  
+.flex-row .about-person p {
+     padding: 0px;
+ 
+   }
+
+   .about-person {
 		width: 300px;
 		max-width: 300px;
 		min-width: 300px;
 	}
-}
+
 
 @media only screen and (max-width: 1160px) {
 	.about-person {
