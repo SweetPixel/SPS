@@ -36,13 +36,63 @@ body {
 .game-container {
   position: relative;
 }
-
+.image-container {
+     border:2px solid #ceed48;
+     width:100%;
+ }
+ .image-container-inner {
+     padding-bottom:55%;
+     height:0;
+     position:relative;
+ }
+ 
+ .share-work-button {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .share-work-button .share-shadow {
+   width: 400px;
+   height: 71px;
+ }
+ 
+ .share-work-button a:hover .share-shadow {
+   background-position: -391px 0px;
+ }
+ .get-intouch-button {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .get-intouch-button .touch-shadow {
+   width: 497px;
+   height: 100px;
+ }
+ 
+ .get-intouch-button a:hover .touch-shadow {
+   background-position: -500px 0px;
+ }
+ 
+ .visit-store-button {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .visit-store-button .visit-shadow {
+   width: 250px;
+   height: 75px;
+ }
+ 
+ .visit-store-button a:hover .visit-shadow {
+   background-position: -250px 0;
+ 
+}
 .sps-button-container {
   z-index: 1;
   position: relative;
 }
 
-.sps-button-container.game-link {
+/*.sps-button-container.game-link {
   position: absolute;
   width: 250px;
   bottom: 52px;
@@ -51,8 +101,18 @@ body {
   margin-left: auto;
   margin-right: auto;
   display: block;
-}
-
+}*/
+.badassbutton {
+   display: flex;
+   justify-content: center;
+ }
+.badassbutton .btn-shadow {
+   width: 700px;
+   height: 100px;
+ }
+ .badassbutton a:hover .btn-shadow {
+   background-position: -700px 0px;
+ }
 .sps-button {
   padding: 20px 0;
   text-decoration: none;

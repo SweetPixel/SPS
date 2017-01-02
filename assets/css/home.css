@@ -16,7 +16,7 @@
   text-align: center;
 }
 
-.sps-button-container.game-link a:hover {
+/*.sps-button-container.game-link a:hover {
   color: #3AB4FF;
   text-shadow: 2px 2px 0px #F51484;
   background-color: #6E1F75;
@@ -26,8 +26,13 @@
   color: #3AB4FF;
   text-shadow: 2px 2px 0px #F51484;
   background-color: #6E1F75;
-}
-
+}*/
+.bad-ass-button .btn-shadow {
+   background-image: url('../icons/Games-Consultancy-Services-Button-1400x200.svg');
+ }
+ .visit-button .visit-shadow {
+   background-image: url('../icons/Visit-GameJolt-Store-Button-500x150_V3.svg');
+  }
 .social-links {
   display: flex;
   justify-content: center;
@@ -39,38 +44,32 @@
 }
 
 .social-links .icon {
-  width: 4rem;
-  height: 4rem;
-  background-size: auto 100%;
+  width: 100px;
+  height: 100px;
+background-position: -100px 0;
 }
 
 .twitter .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button-100x100.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button100x100.svg');
 }
 
 .instagram .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Instagram-Button-100x100.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Instagram-Button100x100.svg');
 }
 
 .facebook .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook-Button-100x100.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook-Button.svg');
 }
 
 .social-links a:hover .icon {
-  background-position: -4rem 0;
+  background-position: 0px 0px;
 }
 
 .boom:hover .icon {
   background-position: -6.6rem -8px;
 }
 
-.boom .icon {
-  background-position: 0 -8px;
-  width: 6.6rem;
-  height: 6.6rem;
-  background-size: auto 100%;
-  background-image: url('../icons/Indie-Games-Boom-Button-100x100.svg');
-}
+
 
 .contact-form {
   display: flex;
@@ -114,10 +113,11 @@
 .contact-form .image {
   width: 100px;
   height: 100px;
+background-position: -100px 0px;
 }
 
 .boom .image {
-  background-image: url('/assets/icons/Indie-Games-Boom-Button-100x100.svg');
+  background-image: url('../icons/Indie-Games-Boom-Button-100x100.svg');
 }
 
 .Press-This .img-hand {
@@ -147,7 +147,7 @@
 }
 
 .contact-form a:hover .image {
-  background-position: -100px 0px;
+  background-position: 0px 0px;
 }
 
 .Playstation-Icons img {

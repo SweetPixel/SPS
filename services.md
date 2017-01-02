@@ -41,9 +41,9 @@ layout: default
     <p style="font-size: 24px; margin-top: 20px;" class="banner-text">Also, did we mention we have an in-house robot army?</p>
   </div>
   <div style="margin-top: 60px;">
-    <div class="sps-button-container services-link">
-      <a href="mailto:hello@sweetpixelstudios.com?subject=SPS Service Request" class="sps-button services-link">GET IN TOUCH</a>
-      <div class="shadow"></div>
+    <div class="get-intouch-button">
+      <a href="mailto:hello@sweetpixelstudios.com?subject=SPS Service Request" class="touch-button">
+      <div class="touch-shadow"></div></a>
     </div>
   </div>
   <footer>
