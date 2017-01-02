@@ -27,10 +27,10 @@ layout: default
   </div>
   <div>
     <div class="game-container">
-    <div class="test-div">
-       <div class="test-div-inner">
+    <div class="image-container">
+       <div class="image-container-inner">
       <img class="img-center" src="{{ site.github.url }}/assets/images/games/Abode-Horror-Adventure-Indie-Game-New.svg" alt="">
-      <div class="button2">
+      <div class="visit-store-button">
         <a href="http://gamejolt.com/games/abode/177072" target="_blank" class="visit-button">
 <div class="visit-shadow"></div>
         </a>
@@ -49,7 +49,7 @@ layout: default
     </div>
     <div>
       <span class="services-message">OR CHECK OUT</span>
-      <div class="button1">
+      <div class="badassbutton">
         <a href="{{site.github.url}}/services/" class="bad-ass-button"><!-- <span style="font-size: 50px; line-height: 14px; padding-left: 10px;">></span> -->
         <div class="btn-shadow"></div></a>
         

@@ -36,54 +36,54 @@ body {
 .game-container {
   position: relative;
 }
-.test-div {
+.image-container {
      border:2px solid #ceed48;
      width:100%;
  }
- .test-div-inner {
+ .image-container-inner {
      padding-bottom:55%;
      height:0;
      position:relative;
  }
  
- .button4 {
+ .share-work-button {
    display: flex;
    justify-content: center;
  }
  
- .button4 .share-shadow {
+ .share-work-button .share-shadow {
    width: 400px;
    height: 71px;
  }
  
- .button4 a:hover .share-shadow {
+ .share-work-button a:hover .share-shadow {
    background-position: -391px 0px;
  }
- .button3 {
+ .get-intouch-button {
    display: flex;
    justify-content: center;
  }
  
- .button3 .touch-shadow {
+ .get-intouch-button .touch-shadow {
    width: 497px;
    height: 100px;
  }
  
- .button3 a:hover .touch-shadow {
+ .get-intouch-button a:hover .touch-shadow {
    background-position: -500px 0px;
  }
  
- .button2 {
+ .visit-store-button {
    display: flex;
    justify-content: center;
  }
  
- .button2 .visit-shadow {
+ .visit-store-button .visit-shadow {
    width: 250px;
    height: 75px;
  }
  
- .button2 a:hover .visit-shadow {
+ .visit-store-button a:hover .visit-shadow {
    background-position: -250px 0;
  
 }
@@ -102,15 +102,15 @@ body {
   margin-right: auto;
   display: block;
 }*/
-.button1 {
+.badassbutton {
    display: flex;
    justify-content: center;
  }
-.button1 .btn-shadow {
+.badassbutton .btn-shadow {
    width: 700px;
    height: 100px;
  }
- .button1 a:hover .btn-shadow {
+ .badassbutton a:hover .btn-shadow {
    background-position: -700px 0px;
  }
 .sps-button {
