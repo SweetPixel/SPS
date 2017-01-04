@@ -28,6 +28,7 @@
   background-color: #6E1F75;
 }*/
 .bad-ass-button .btn-shadow {
+
    background-image: url('../icons/Games-Consultancy-Services-Button-1400x200.svg');
  }
  .visit-button .visit-shadow {
@@ -276,6 +277,9 @@ position: absolute;
     width: 18%;
     top: auto;
   }
+ .visit-store-button {
+   margin-top: -144px;
+ }
 }
 @media screen and (max-width: 767px) {
   .Start img {

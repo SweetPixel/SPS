@@ -30,7 +30,7 @@ layout: default
     <div class="image-container">
     <div class="image-container-inner">
       <img class="img-center" src="{{ site.github.url }}/assets/images/games/Abode-Horror-Adventure-Indie-Game-New.svg" alt=""/>
-      <div class="visit-store-button" style="z-index: 10; position: relative;">
+      <div class="visit-store-button" style="z-index: 10; position: relative; transform: scale(0.5, 0.5);">
         <a href="http://gamejolt.com/games/abode/177072" target="_blank" class="visit-button">
 <div class="visit-shadow"></div>
         </a>
