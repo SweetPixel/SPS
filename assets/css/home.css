@@ -28,10 +28,11 @@
   background-color: #6E1F75;
 }*/
 .bad-ass-button .btn-shadow {
+
    background-image: url('../icons/Games-Consultancy-Services-Button-1400x200.svg');
  }
  .visit-button .visit-shadow {
-   background-image: url('../icons/Visit-GameJolt-Store-Button-500x150_V3.svg');
+   background-image: url('../icons/Visit-GameJolt-Store-Button-500x150_real.svg');
   }
 .social-links {
   display: flex;
@@ -58,7 +59,7 @@ background-position: -100px 0;
 }
 
 .facebook .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook-Button.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook-Button_real.svg');
 }
 
 .social-links a:hover .icon {
@@ -194,7 +195,7 @@ background-position: -100px 0px;
 
 .Loading-Bar img {
   position: absolute;
-  top: 1242px;
+  top: auto;
   right: 8%;
   width: 18%;
 }
@@ -231,21 +232,6 @@ position: absolute;
   }
   
  }*/
-
-@media only screen and (max-width: 768px) {
-  .Start img {
-    position: absolute;
-    right: 8%;
-    width: 36%;
-    top: 416px;
-  }
-  .Loading-Bar img {
-    position: absolute;
-    right: 8%;
-    width: 18%;
-    top: 933px;
-  }
-}
 
 @media only screen and (max-width: 1024px) {
   /* .gameover img{
@@ -289,6 +275,23 @@ position: absolute;
     position: absolute;
     right: 8%;
     width: 18%;
-    top: 957px;
+    top: auto;
+  }
+ .visit-store-button {
+   margin-top: -144px;
+ }
+}
+@media screen and (max-width: 767px) {
+  .Start img {
+    position: absolute;
+    right: 8%;
+    width: 36%;
+    top: 416px;
+  }
+  .Loading-Bar img {
+    position: absolute;
+    right: 8%;
+    width: 18%;
+    top: auto;
   }
 }

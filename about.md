@@ -60,7 +60,7 @@ layout: default
       <br>who cares right?</p>
   </div>
   <div style="margin-top: 60px;">
-    <div class="share-work-button">
+    <div class="share-work-button" style="transform: scale(0.75,0.75);">
       <a href="mailto:hello@sweetpixelstudios.com?subject=Work Experience/Portfolio for Job Openings at SPS" class="share-button">
 <div class="share-shadow"></div>
       </a>

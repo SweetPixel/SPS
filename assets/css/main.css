@@ -37,11 +37,11 @@ body {
   position: relative;
 }
 .image-container {
-     border:2px solid #ceed48;
+     border:2px;
      width:100%;
  }
  .image-container-inner {
-     padding-bottom:55%;
+     padding-bottom:46%;
      height:0;
      position:relative;
  }
@@ -52,12 +52,13 @@ body {
  }
  
  .share-work-button .share-shadow {
-   width: 400px;
-   height: 71px;
+   width: 800px;
+   height: 150px;
+ background-position: -800px 0px;
  }
  
  .share-work-button a:hover .share-shadow {
-   background-position: -391px 0px;
+   background-position: 0px 0px;
  }
  .get-intouch-button {
    display: flex;
@@ -65,26 +66,29 @@ body {
  }
  
  .get-intouch-button .touch-shadow {
-   width: 497px;
-   height: 100px;
+   width: 1000px;
+   height: 200px;
+ background-position: -1000px 0px;
  }
  
  .get-intouch-button a:hover .touch-shadow {
-   background-position: -500px 0px;
+   background-position: 0px 0px;
  }
  
  .visit-store-button {
    display: flex;
    justify-content: center;
+   margin-top: -169px;
  }
  
  .visit-store-button .visit-shadow {
-   width: 250px;
-   height: 75px;
+   width: 500px;
+   height: 150px;
+ background-position: -500px 0;
  }
  
  .visit-store-button a:hover .visit-shadow {
-   background-position: -250px 0;
+   background-position: 0px 0;
  
 }
 .sps-button-container {
