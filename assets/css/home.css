@@ -51,7 +51,7 @@ background-position: -100px 0;
 }
 
 .twitter .icon {
-  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button100x100.svg');
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Twitter-Button100x100_real.svg');
 }
 
 .instagram .icon {
@@ -67,7 +67,7 @@ background-position: -100px 0;
 }
 
 .boom:hover .icon {
-  background-position: -6.6rem -8px;
+  background-position: 0px 0px;
 }
 
 
