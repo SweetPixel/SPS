@@ -1,0 +1,225 @@
+.monsterjump {
+  padding: 10px;
+  background: #25dfc3;
+  background: -webkit-linear-gradient(#664b9e, #db5b5b);
+  background: -o-linear-gradient(#664b9e, #db5b5b);
+  background: -moz-linear-gradient(#664b9e, #db5b5b);
+  background: linear-gradient(#664b9e, #db5b5b);
+}
+.monsters img { 
+  margin-top: -220px;
+  padding-right: 15px;
+}
+.monsterjump-text {
+  text-align: center;
+  color: White;
+  font-size: 1.4rem;
+  font-family: koyu;
+  letter-spacing: .1rem;
+  margin: 10px 0;
+  line-height: 45px;
+}
+.bars-to-left img {
+  position: relative; 
+  z-index: 3;
+  top: -195px; 
+  right: -1164px; 
+  width: 9%;
+}
+.bars-to-right img {
+  position: relative;
+   right: -1084px; 
+   top: -224px;
+    width: 18%;
+}
+.three-layer-image img {
+  position: relative; 
+  right: -1233px; 
+  top: -86px; 
+  width: 8%;
+}
+.jumps img {
+  position: relative;
+   z-index: 3; 
+   right: 10px; 
+   top: -86px; 
+   width: 8%;
+}
+.square img {
+  position: relative; 
+  top: 292px; 
+  width: 8%; 
+  z-index: 3; 
+  right: 10px;
+}
+.Portal_Open img {
+  position: relative;
+  right: -1189px;
+
+}
+.monsterjump .flex-row {
+	flex-wrap: wrap;
+  display: flex;
+}
+
+.monsterjump-grid{
+  width: 340px;
+  max-width: 340px;
+  min-width: 340px;
+  margin: 18px 18px;
+}
+.share-button .share-shadow {
+   background-image: url('../icons/Games-Development-Job-Pakistan-UK-Button_real.svg');
+ }
+.monsterjump-grid.img-center {
+  width: 100%;
+}
+
+.person-name {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.6rem;
+  margin-bottom: 6px;
+}
+
+.person-desig {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 2px;;
+}
+.flex-row .monsterjump-text a:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+/*@media only screen and (max-width: 1600px) {  
+.flex-row .monsterjump-gridp {
+     padding: 0px;
+ 
+   }
+
+   .monsterjump-grid{
+    width: 300px;
+    max-width: 300px;
+    min-width: 300px;
+  }
+.bars-to-left img {
+  position: relative; 
+  z-index: 3; 
+  right: -1326px; 
+  width: 13%;
+}
+.bars-to-right img {
+  position: relative;
+   right: -1220px; 
+   top: -254px;
+    width: 18%;
+}
+.three-layer-image img {
+  position: relative; 
+  right: -1463px; 
+  top: -86px; 
+  width: 8%;
+}
+.Portal_Open img {
+  position: relative;
+  right: -1440px;
+
+}
+}*/
+
+@media only screen and (max-width: 1250px) {  
+.flex-row .monsterjump-gridp {
+     padding: 0px;
+ 
+   }
+
+   .monsterjump-grid{
+		width: 300px;
+		max-width: 300px;
+		min-width: 300px;
+	}
+.bars-to-left img {
+  position: relative; 
+  z-index: 3; 
+  right: -1034px; 
+  width: 13%;
+}
+.bars-to-right img {
+  position: relative;
+   right: -998px; 
+   top: -203px;
+    width: 18%;
+}
+.three-layer-image img {
+  position: relative; 
+  right: -1142px; 
+  top: -86px; 
+  width: 8%;
+}
+.Portal_Open img {
+  position: relative;
+  right: -1089px;
+
+}
+}
+
+@media only screen and (max-width: 1160px) {
+	.monsterjump-grid{
+		width: 260px;
+		max-width: 260px;
+		min-width: 332px;
+	}
+.bars-to-left img {
+  position: relative; 
+  z-index: 3; 
+  right: -808px; 
+  width: 13%;
+}
+.bars-to-right img {
+  position: relative;
+   right: -683px; 
+   top: -203px;
+    width: 18%;
+}
+.three-layer-image img {
+  position: relative; 
+  right: -893px; 
+  top: -86px; 
+  width: 8%;
+}
+.monster-text {
+  margin-top: 65px;
+}
+.monsters img {
+  width: 17%;
+}
+.Portal_Open img {
+  position: relative;
+  right: -820px;
+
+}
+}
+
+@media only screen and (max-width: 950px) {
+	.monsterjump-grid{
+		width: 180px;
+		max-width: 180px;
+		min-width: 180px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+  .monsterjump .flex-row {
+		display: flex;
+	}
+	.monsterjump-grid{
+		width: 250px;
+		max-width: 250px;
+		min-width: 250px;
+	}
+
+}
