@@ -10,7 +10,9 @@ layout: default
   <div style="width: 90%; margin: 0 auto;">
     <p class="monsterjump-text" style="padding-top: 77px;">FOR <span style="color: #82e765;"> ANDROID, APPLE TV, IPAD, IPHONE </span></p>
     <div style="position: relative; z-index: 3; right: 79px; top: -109px; width: 9%;">
+    <div class="Portal_Close">
       <img src="{{site.github.url}}/assets/images/Portal_Close png.png" alt="">
+    </div>
     </div>
     <div class="monsterjump-text" style="margin-top: -269px;">
     <a href="https://itunes.apple.com/app/id1184881974" style="color: transparent;">
@@ -61,9 +63,8 @@ layout: default
     <p class="monsterjump-text">GAMEPLAY VIDEO</p>
     <br><br>
     <div class="monsterjump-text">
-    <div class="image-container img-center">
-      <div class="image-container-inner">
-        
+    <div class="video-container img-center">
+      <div class="monsterjump-video-inner">
       </div>
     </div>
     <!-- <img style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="/assets/images/video-shot3.png"> -->
