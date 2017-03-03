@@ -13,10 +13,10 @@ layout: default
       <img src="{{site.github.url}}/assets/images/Portal_Close png.png" alt="">
     </div>
     <div class="monsterjump-text" style="margin-top: -269px;">
-    <a href="" style="color: transparent;">
+    <a href="https://itunes.apple.com/app/id1184881974" style="color: transparent;">
     <img  src="{{ site.github.url }}/assets/images/apple.png" alt="">
     </a>
-    <a href="" style="color: transparent;">
+    <a href="https://play.google.com/store/apps/details?id=com.sps.monsterjump" style="color: transparent;">
     <img  src="{{ site.github.url }}/assets/images/google.png" alt="">
     </a>
     </div>
@@ -56,11 +56,18 @@ layout: default
     <div class="bars-to-right">
       <img src="{{site.github.url}}/assets/images/bg-asset4.svg" alt="">
     </div>
+<br>
   <div style="width: 90%; margin: 0 auto; margin-top: -236px;">
     <p class="monsterjump-text">GAMEPLAY VIDEO</p>
     <br><br>
     <div class="monsterjump-text">
-    <iframe style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="https://www.youtube.com/embed/GUTtULUy_Bw" frameborder="0" allowfullscreen></iframe>
+    <div class="image-container img-center">
+      <div class="image-container-inner">
+        
+      </div>
+    </div>
+    <!-- <img style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="/assets/images/video-shot3.png"> -->
+    <!-- <iframe style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="https://www.youtube.com/embed/GUTtULUy_Bw" frameborder="0" allowfullscreen></iframe> -->
     </div>
     <br><br><br>
     <p class="monsterjump-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
@@ -81,10 +88,10 @@ layout: default
   <div style="width: 90%; margin: 0 auto; margin-top: -292px">
     <p class="monsterjump-text monster-text" style="padding-top: 77px;">FOR <span style="color: #82e765;">ANDROID, APPLE TV, IPAD, IPHONE</span> </p>
     <div class="monsterjump-text" style="margin-top: 26px;">
-    <a href="" style="color: transparent;">
+    <a href="https://itunes.apple.com/app/id1184881974" style="color: transparent;">
     <img  src="{{ site.github.url }}/assets/images/apple.png" alt="">
     </a>
-    <a href="" style="color: transparent;">
+    <a href="https://play.google.com/store/apps/details?id=com.sps.monsterjump" style="color: transparent;">
     <img  src="{{ site.github.url }}/assets/images/google.png" alt="">
     </a>
     </div>

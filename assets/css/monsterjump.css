@@ -6,6 +6,16 @@
   background: -moz-linear-gradient(#664b9e, #db5b5b);
   background: linear-gradient(#664b9e, #db5b5b);
 }
+.image-container {
+     border: 7px solid white;
+     text-align: center;
+     width:60%;
+ }
+ .image-container-inner {
+     padding-bottom:46%;
+     height:0;
+     position:relative;
+ }
 .monsters img { 
   margin-top: -220px;
   padding-right: 15px;
