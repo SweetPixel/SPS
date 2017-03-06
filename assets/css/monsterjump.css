@@ -106,7 +106,7 @@
   text-decoration-color: white;
 }
 @media only screen and (max-width: 1600px) {  
-.flex-row .monsterjump-gridp {
+.flex-row .monsterjump-grid p {
      padding: 0px;
  
    }
@@ -115,9 +115,9 @@
   right: 10px;
 }
    .monsterjump-grid{
-    width: 300px;
-    max-width: 300px;
-    min-width: 300px;
+    width: 340px;
+    max-width: 340px;
+    min-width: 340px;
   }
 .bars-to-left img {
   position: relative; 
