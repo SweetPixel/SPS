@@ -61,6 +61,9 @@ background-position: -100px 0;
 .facebook .icon {
   background-image: url('../icons/Sweet-Pixel-Studio-Games-Facebook-Button_real.svg');
 }
+.youtube .icon {
+  background-image: url('../icons/Sweet-Pixel-Studio-Games-Youtube-Button-100x100-02.svg');
+}
 
 .social-links a:hover .icon {
   background-position: 0px 0px;
