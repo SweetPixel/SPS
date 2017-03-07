@@ -29,22 +29,25 @@
   margin: 10px 0;
   line-height: 45px;
 }
+.Portal_Close {
+  position: relative;
+  right: 10px;
+}
 .bars-to-left img {
   position: relative; 
-  z-index: 3;
-  top: -195px; 
-  right: -1164px; 
-  width: 9%;
+  z-index: 3; 
+  right: -1312px; 
+  width: 13%;
 }
 .bars-to-right img {
   position: relative;
-   right: -1084px; 
-   top: -224px;
+   right: -1220px; 
+   top: -254px;
     width: 18%;
 }
 .three-layer-image img {
   position: relative; 
-  right: -1233px; 
+  right: -1446px; 
   top: -86px; 
   width: 8%;
 }
@@ -64,8 +67,7 @@
 }
 .Portal_Open img {
   position: relative;
-  right: -1189px;
-
+  right: -1422px;
 }
 .monsterjump .flex-row {
 	flex-wrap: wrap;
@@ -106,19 +108,20 @@
   text-decoration-color: white;
 }
 @media only screen and (max-width: 1600px) {  
-.flex-row .monsterjump-gridp {
+.flex-row .monsterjump-grid p {
      padding: 0px;
  
    }
+    .monsterjump-grid{
+    width: 340px;
+    max-width: 340px;
+    min-width: 340px;
+  }
 .Portal_Close {
   position: relative;
   right: 10px;
 }
-   .monsterjump-grid{
-    width: 300px;
-    max-width: 300px;
-    min-width: 300px;
-  }
+  
 .bars-to-left img {
   position: relative; 
   z-index: 3; 
