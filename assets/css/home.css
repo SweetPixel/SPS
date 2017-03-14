@@ -283,6 +283,9 @@ position: absolute;
  .visit-store-button {
    margin-top: -144px;
  }
+ .visit-store-button-monsterjump {
+   margin-top: -83px;
+ }
 }
 @media screen and (max-width: 767px) {
   .Start img {
