@@ -63,11 +63,12 @@ layout: default
     <p class="monsterjump-text">GAMEPLAY VIDEO</p>
     <br><br>
     <div class="monsterjump-text">
-    <div class="video-container img-center">
+    <!-- <div class="video-container img-center">
       <div class="monsterjump-video-inner">
       </div>
-    </div>
+    </div> -->
     <!-- <img style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="/assets/images/video-shot3.png"> -->
+    <iframe style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="https://www.youtube.com/embed/ETyCHI4xriM" frameborder="0" allowfullscreen></iframe>
     <!-- <iframe style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="https://www.youtube.com/embed/GUTtULUy_Bw" frameborder="0" allowfullscreen></iframe> -->
     </div>
     <br><br><br>
@@ -132,7 +133,7 @@ layout: default
   </div> -->
   <footer>
     <div class="footer">
-      <p style="color: white; position: relative; z-index: 3;">COPYRIGHT PROTECTED BY SUGAR MONSTERS OF SWEET PIXEL STUDIO</p>
+      <p style="color: white; position: relative; z-index: 3;">COPYRIGHT PROTECTED BY WICKED CITIZENS OF MONSTERVERSE</p>
     </div>
     <div style="text-align: left; margin-top: -143px;">
       <img src="{{ site.github.url }}/assets/images/bg-bottom-asset.png" alt="">
