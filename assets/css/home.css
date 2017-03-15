@@ -34,6 +34,9 @@
  .visit-button .visit-shadow {
    background-image: url('../icons/Visit-GameJolt-Store-Button-500x150_real.svg');
   }
+  .visit-button-monsterjump .visit-shadow {
+   background-image: url('../images/Monster-Jump-More-Details-Button-500x150.svg');
+  }
 .social-links {
   display: flex;
   justify-content: center;
@@ -282,6 +285,10 @@ position: absolute;
   }
  .visit-store-button {
    margin-top: -144px;
+ }
+ .visit-store-button-monsterjump {
+   margin-top: -83px;
+   margin-left: -58px;
  }
 }
 @media screen and (max-width: 767px) {

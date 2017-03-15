@@ -28,7 +28,7 @@ layout: default
     </div>
     <div>
       <p class="monsterjump-text" style="margin-top: -50px">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+        Put your gaming skills and reflexes to an almost impossible trial of exhilarated Jumping. 
       </p>
     </div>
   </div>
@@ -63,15 +63,16 @@ layout: default
     <p class="monsterjump-text">GAMEPLAY VIDEO</p>
     <br><br>
     <div class="monsterjump-text">
-    <div class="video-container img-center">
+    <!-- <div class="video-container img-center">
       <div class="monsterjump-video-inner">
       </div>
-    </div>
+    </div> -->
     <!-- <img style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="/assets/images/video-shot3.png"> -->
+    <iframe style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="https://www.youtube.com/embed/ETyCHI4xriM" frameborder="0" allowfullscreen></iframe>
     <!-- <iframe style="margin-top: -49px; border: 7px solid white;" width="60%" height="400" src="https://www.youtube.com/embed/GUTtULUy_Bw" frameborder="0" allowfullscreen></iframe> -->
     </div>
     <br><br><br>
-    <p class="monsterjump-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+    <p class="monsterjump-text">Help your beloved monsters Jump through these nifty and tricky levels and put your gaming expertise and reflexes to an almost incredible test of exhilarated Jumping.</p>
   </div>
   <br><br><br>
   <div class="three-layer-image">
@@ -132,7 +133,7 @@ layout: default
   </div> -->
   <footer>
     <div class="footer">
-      <p style="color: white; position: relative; z-index: 3;">COPYRIGHT PROTECTED BY SUGAR MONSTERS OF SWEET PIXEL STUDIO</p>
+      <p style="color: white; position: relative; z-index: 3;">COPYRIGHT PROTECTED BY WICKED CITIZENS OF MONSTERVERSE</p>
     </div>
     <div style="text-align: left; margin-top: -143px;">
       <img src="{{ site.github.url }}/assets/images/bg-bottom-asset.png" alt="">

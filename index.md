@@ -41,13 +41,20 @@ layout: default
     <div class="Loading-Bar">
       <img src="{{ site.github.url }}/assets/images/back-stickers/Loading-Bar.png" alt="">
     </div>
-    <div class="game-container">
-<div class="image-container">
-    <div class="image-container-inner">
-      <img class="img-center" src="{{ site.github.url }}/assets/images/games/Punkbusters-Action-RPG-Cyberpunk-Indie-Game-New.svg" alt="">
-   </div>
-   </div>
+    <div class="flex-row">
+    <div class="service" style="position: relative; z-index: 10;">
+      <img class="img-center" src="{{ site.github.url }}/assets/images/Monster-Jump-Top-Arcade-Game-New.svg" alt="">
+      <div class="visit-store-button-monsterjump" style="z-index: 10; position: relative; transform: scale(0.5, 0.5);">
+        <a href="{{ site.github.url }}/monsterjump/"  class="visit-button-monsterjump">
+<div class="visit-shadow"></div>
+        </a>
+        <div class="spacing"></div>
+      </div>
     </div>
+    <div class="service" style="z-index: 10;">
+      <img class="img-center" src="{{ site.github.url }}/assets/images/Boom-Top-Arcade-Action-Game-New.svg" alt="">
+    </div>
+  </div>
     <div class="Sweet-Deadpool">
       <img src="{{ site.github.url }}/assets/images/back-stickers/Sweet-Deadpool.svg" alt="">
     </div>

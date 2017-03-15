@@ -80,13 +80,35 @@ body {
    justify-content: center;
    margin-top: -169px;
  }
- 
+ .visit-store-button-monsterjump {
+   display: flex;
+   justify-content: center;
+   margin-top: -81px;
+ }
+ .visit-store-button-monsterjump .visit-shadow {
+   width: 500px;
+   height: 150px;
+ background-position: -500px 0;
+ }
+ .visit-store-button-monsterjump .visit-shadow {
+   width: 500px;
+   height: 150px;
+ background-position: -500px 0;
+ }
+ .visit-store-button-monsterjump .visit-shadow {
+   width: 500px;
+   height: 150px;
+ background-position: -500px 0;
+ }
  .visit-store-button .visit-shadow {
    width: 500px;
    height: 150px;
  background-position: -500px 0;
  }
+ .visit-store-button-monsterjump a:hover .visit-shadow {
+   background-position: 0px 0;
  
+} 
  .visit-store-button a:hover .visit-shadow {
    background-position: 0px 0;
  
