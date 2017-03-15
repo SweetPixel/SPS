@@ -43,16 +43,16 @@ layout: default
     </div>
     <div class="flex-row">
     <div class="service" style="position: relative; z-index: 10;">
-      <img class="img-center" src="{{ site.github.url }}/assets/images/Monster Jump.png" alt="">
+      <img class="img-center" src="{{ site.github.url }}/assets/images/Monster-Jump-Top-Arcade-Game-New.svg" alt="">
       <div class="visit-store-button-monsterjump" style="z-index: 10; position: relative; transform: scale(0.5, 0.5);">
-        <a href="{{ site.github.url }}/monsterjump/" target="_blank" class="visit-button">
+        <a href="{{ site.github.url }}/monsterjump/"  class="visit-button-monsterjump">
 <div class="visit-shadow"></div>
         </a>
         <div class="spacing"></div>
       </div>
     </div>
     <div class="service" style="z-index: 10;">
-      <img class="img-center" src="{{ site.github.url }}/assets/images/PB.png" alt="">
+      <img class="img-center" src="{{ site.github.url }}/assets/images/Boom-Top-Arcade-Action-Game-New.svg" alt="">
     </div>
   </div>
     <div class="Sweet-Deadpool">
