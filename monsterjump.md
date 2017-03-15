@@ -34,22 +34,22 @@ layout: default
   </div>
   <div class="flex-row">
     <div class="monsterjump-grid">
-      <img class="img-center"  style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/monster-jump-3.png" alt="">
+      <img class="img-center"  style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monster-Jump-Arcade-Platformer-Game-1.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/monster-jump-2.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Free-Zombie-Arcade-Game-2.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/monster-jump-4.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Top-Monsters-Games-Arcade-3.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/monster-jump-3.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Top-Devil-Action-Arcade-4.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/monster-jump-2.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Arcade-Hopper-Jumping-Game-5.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white; position: relative; z-index: 3;" src="{{ site.github.url }}/assets/images/monster-jump-4.png" alt="">
+      <img class="img-center" style="border: 7px solid white; position: relative; z-index: 3;" src="{{ site.github.url }}/assets/images/3D-Jumping-Game-Spikes-Monster-6.jpg" alt="">
     </div>
   </div>
   <div class="square">
