@@ -82,18 +82,41 @@ layout: default
         <img style="width: 440px;" class="img-center" src="{{ site.github.url }}/assets/images/Sign-Up-Text.svg" alt="">
       </div>
       <footer>
-        <form id="contact-form" class="contact-form">
-          <input style="width: 30%" type="text" placeholder="YOUR NAME">
-          <input style="width: 70%" type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
-          <div class="subscribe">
-            <a href="" class="boom" type="submit">
+      <div id="mc_embed_signup">
+<form action="//sweetpixelstudio.us2.list-manage.com/subscribe/post?u=e9d8e2078e2e7c69f0414c3d5&amp;id=1b173667e1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate contact-form" target="_blank" novalidate>
+    <input style="width: 30%" type="text" value="" name="NAME" class="required" id="mce-NAME" placeholder="YOUR NAME">
+    <input style="width: 70%" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"
+    placeholder="YOUR EMAIL ARE BELONG HERE">
+<div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>   
+    
+    <div class="clear">
+    <input style="border: 0px solid transparent; font-family: koyu; background: #f51484; color: white; padding: 16px;" type="submit" value="SUBSCRIBE" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+    <div class="Press-This">
+            <img class="img-hand" src="{{ site.github.url }}/assets/images/back-stickers/Press-This.svg" alt="">
+            </div>
+</form>
+<!-- <div id="mc_embed_signup">
+  <form action="//sweetpixelstudio.us2.list-manage.com/subscribe/post?u=e9d8e2078e2e7c69f0414c3d5&amp;id=1b173667e1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate id="contact-form" class="contact-form">
+<div id="mc_embed_signup_scroll">
+         
+          <input style="width: 30%" type="text" value="" class="required" id="mce-NAME"  placeholder="YOUR NAME">
+
+          <input style="width: 70%" name="EMAIL" class="required email" id="mce-EMAIL" type="email" placeholder="YOUR EMAIL ARE BELONG HERE">
+<div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+         <!--  <div class="subscribe">
+            <a value="Subscribe" name="subscribe" id="mc-embedded-subscribe"  class="button boom" type="submit">
               <div class="image"></div>
             </a>
-          </div>
-          <div class="Press-This">
-            <img class="img-hand" src="{{ site.github.url }}/assets/images/back-stickers/Press-This.svg" alt="">
-          </div>
-        </form>
+          </div> -->
+          
         <div class="gameover" style="text-align: left;">
           <img src="{{ site.github.url }}/assets/images/back-stickers/Game-Over1.svg" alt="">
         </div>
