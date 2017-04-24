@@ -44,11 +44,6 @@ layout: default
       <p class="person-desig">game engineer</p>
     </div>
     <div class="about-person">
-      <img class="img-center" src="{{ site.github.url }}/assets/images/people/Unity-Engineer-Sweet-Pixel-Studio.svg" alt="">
-      <p class="person-name">ASKARI</p>
-      <p class="person-desig">jnr engineer</p>
-    </div>
-    <div class="about-person">
       <img class="img-center" src="{{ site.github.url }}/assets/images/people/Engineer-Sweet-Pixel-Studio.svg" alt="">
       <p class="person-name">IMRAN</p>
       <p class="person-desig">jnr engineer</p>
