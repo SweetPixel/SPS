@@ -126,7 +126,7 @@
 .bars-to-left img {
   position: relative; 
   z-index: 3; 
-  right: -1312px; 
+  right: -1258px; 
   width: 13%;
 }
 .bars-to-right img {
@@ -137,13 +137,13 @@
 }
 .three-layer-image img {
   position: relative; 
-  right: -1446px; 
+  right: -1388px; 
   top: -86px; 
   width: 8%;
 }
 .Portal_Open img {
   position: relative;
-  right: -1422px;
+  right: -1356px;
 
 }
 }
