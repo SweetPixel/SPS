@@ -1,0 +1,456 @@
+.boom {
+  padding: 10px;
+  background: #25dfc3;
+  background: -webkit-linear-gradient(#fe0046 , #ff1847);
+  background: -o-linear-gradient(#fe0046 , #ff1847);
+  background: -moz-linear-gradient(#fe0046 , #ff1847);
+  background: linear-gradient(#ff1e5c , #ff4268);
+}
+
+.video-container {
+     border: 7px solid white;
+     text-align: center;
+     width:60%;
+ }
+ .boom-video-inner {
+     padding-bottom:46%;
+     height:0;
+     position:relative;
+ }
+.monsters img { 
+  margin-top: -220px;
+  padding-right: 15px;
+}
+.boom-text {
+  text-align: center;
+  color: White;
+  font-size: 1.4rem;
+  font-family: koyu;
+  letter-spacing: .1rem;
+  margin: 10px 0;
+  line-height: 45px;
+}
+.boss img {
+width: 275px;
+}
+.boss {
+  position: relative;
+  right: 18px;
+  opacity: .2;
+}
+.Enemy img {
+  position: relative; 
+  z-index: 3; 
+  right: -1457px; 
+  width: 13%;
+  opacity: .2;
+}
+.Boss3 img {
+  position: relative;
+   right: -1220px; 
+   top: -254px;
+    width: 18%;
+    opacity: .2;
+}
+.Boss2 img {
+  position: relative; 
+  right: -1609px; 
+  top: -86px; 
+  width: 14%;
+  opacity: .2;
+}
+.jumps img {
+  position: relative;
+   z-index: 3; 
+   right: 10px; 
+   top: -86px; 
+   width: 8%;
+   opacity: .2;
+}
+.Enemy2 img {
+  position: relative; 
+  top: 292px; 
+  width: 8%; 
+  z-index: 3; 
+  right: 10px;
+  opacity: .2;
+}
+.Enemy4 img {
+  position: relative;
+  right: -1599px;
+  opacity: .2;
+}
+.boom .flex-row {
+	flex-wrap: wrap;
+  display: flex;
+}
+
+.boom-grid{
+  width: 340px;
+  max-width: 340px;
+  min-width: 340px;
+  margin: 18px 18px;
+}
+.share-button .share-shadow {
+   background-image: url('../icons/Games-Development-Job-Pakistan-UK-Button_real.svg');
+ }
+.boom-grid.img-center {
+  width: 100%;
+}
+/*.LazerLeny-character-text {
+  width: 16%; 
+  height: 41px;
+}
+.SolarSaleem-character-text {
+    width: 18%;
+    height: 41px; 
+}
+.NitroNaomi-character-text {
+      width: 16%;
+    height: 37px; 
+}
+#LazerLeny {
+  background: url('/assets/images/CharactersNames.png') -31px -187px;
+    background-size: 124%;
+    position: relative;
+    left: -15px;
+    top: -22px;
+}
+#SolarSlaeem {
+   background: url('/assets/images/CharactersNames.png') -15px -226px;
+       background-size: 109%;
+    left: 6px;
+    top: -26px;
+    position: relative;
+}
+#NitroNaomi {
+ background: url('/assets/images/CharactersNames.png') -31px -152px;
+   background-size: 124%; 
+   position: relative;
+    top: -23px;
+    left: 20px;
+}*/
+.img-center.text-width img {
+    width: 50%;
+}
+.Lazer-Lenny-text {
+  position: relative;
+  left: 304px;
+}
+.Solar-Slaeem-text {
+  position: relative;
+  left: 132px;
+}
+.Nitro-naomi-text{
+  position: relative;
+  left: -65px;
+}
+.person-name {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.6rem;
+  margin-bottom: 6px;
+}
+
+.person-desig {
+  text-align: center;
+  color: #ff00a4;
+  font-family: koyu;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 2px;;
+}
+.flex-row .boom-text a:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+.img-center.monsters .boom-characters {
+      position: relative;
+    right: -10px;
+}
+
+.character1 img {
+        width: 50%;
+    position: relative;
+    right: -342px;
+    top: 18px;
+}
+.character2 img {
+        width: 50%;
+    position: relative;
+    left: 145px;
+}
+.character3 img {
+        width: 50%;
+    position: relative;
+    right: 86px;
+    top: 8px;
+}
+.way-shredder-gun img {
+width: 31%;
+position: relative;
+left: 384px;
+transform: rotate(28deg);
+}
+.dual-barrel-gun img{
+  width: 26%;
+  position: relative;
+  left: 250px;
+  transform: rotate(28deg);
+}
+.plasma-ray-gun img{
+  width: 26%;
+  transform: rotate(28deg);
+}
+.Rapid-ripper-gun img{
+  width: 32%;
+  position: relative;
+  left: -118px;
+  transform: rotate(28deg);
+}
+.Rapid-ripper-gun-text img {
+  width: 50%;
+  position: relative;
+  left: -146px;
+}
+.plasma-ray-gun-text img {
+  width: 50%;
+  position: relative;
+  left: -41px;
+}
+.dual-barrel-gun-text img {
+  width: 50%;
+  position: relative;
+  left: 153px;
+}
+.way-shredder-gun-text img {
+  width: 50%;
+  position: relative;
+  left: 317px;
+}
+@media only screen and (max-width: 1600px) {  
+.flex-row .boom-grid p {
+     padding: 0px;
+ 
+   }
+    .boom-grid{
+    width: 340px;
+    max-width: 340px;
+    min-width: 340px;
+  }
+  .boss img {
+   padding-top: 23px;
+    width: 223px;
+    margin-bottom: 41px;
+}
+.boss{
+  position: relative;
+  right: -21px;
+}
+  
+.Enemy img {
+  position: relative; 
+  z-index: 3; 
+  right: -1175px; 
+  width: 13%;
+}
+.Boss3 img {
+  position: relative;
+    right: -1155px;
+   top: -254px;
+    width: 18%;
+}
+.Boss2 img {
+  position: relative; 
+  right: -1215px;
+  top: -86px; 
+  width: 14%;
+}
+.Enemy4 img {
+  position: relative;
+   right: -1198px;
+  width: 15%;
+
+}
+}
+@media only screen and (max-width: 1366px) {
+ .Enemy img {
+  position: relative; 
+  z-index: 3;
+  top: -195px; 
+  right: -1164px; 
+  width: 9%;
+}
+.Boss2 img {
+  position: relative; 
+  right: -1148px;; 
+  top: -86px; 
+  width: 14%;
+}
+.Boss3 img {
+  position: relative;
+   right: -1084px; 
+   top: -224px;
+    width: 18%;
+    margin-bottom: -92px;
+}
+.Enemy4 img {
+  position: relative;
+  right: -1138px;
+    width: 15%;
+
+} 
+}
+@media only screen and (max-width: 1250px) {  
+.flex-row .boom-gridp {
+     padding: 0px;
+ 
+   }
+
+   .boom-grid{
+		width: 300px;
+		max-width: 300px;
+		min-width: 300px;
+	}
+.Enemy img {
+  position: relative; 
+  z-index: 3; 
+  right: -1034px; 
+  width: 13%;
+}
+.Boss3 img {
+  position: relative;
+   right: -998px; 
+   top: -203px;
+    width: 18%;
+}
+.Boss2 img {
+  position: relative; 
+  right: -1142px; 
+  top: -86px; 
+  width: 8%;
+}
+.Enemy4 img {
+  position: relative;
+  right: -1089px;
+
+}
+}
+
+@media only screen and (max-width: 1160px) {
+	.character1 img {
+        right: -267px;
+  }
+  .character2 img {
+    left: 130px;
+  }
+  .character3 img {
+    right: 25px;
+  }
+  .Lazer-Lenny-text{
+    left: 270px;
+  }
+  .Solar-Slaeem-text{
+    left: 132px;
+  }
+  .Nitro-naomi-text{
+    left: -27px;
+  }
+  .way-shredder-gun img {
+    left: 323px;
+    top: -12px;
+  }
+  .dual-barrel-gun img {
+    left: 208px;
+  }
+  .plasma-ray-gun img {
+    position: relative;
+    left: 14px;
+  }
+  .Rapid-ripper-gun img {
+    left: -60px;
+  }
+  .way-shredder-gun-text img {
+        left: 272px;
+  }
+  .dual-barrel-gun-text img {
+  left: 153px;
+  }
+  .plasma-ray-gun-text img {
+    left: 2px;
+  }
+  .Rapid-ripper-gun-text img {
+    left: -80px;
+  }
+  .boom-grid{
+		width: 260px;
+		max-width: 260px;
+		min-width: 332px;
+	}
+.Enemy img {
+  position: relative; 
+  z-index: 3; 
+  right: -809px; 
+  width: 13%;
+}
+.Boss3 img {
+  position: relative;
+   right: -683px; 
+   top: -165px;
+    width: 18%;
+}
+.Boss2 img {
+  position: relative; 
+  right: -835px;; 
+  top: -86px; 
+  width: 14%;
+  opacity: .2;
+}
+.monster-text {
+  margin-top: 65px;
+}
+.monsters img {
+  width: 17%;
+}
+.Enemy4 img {
+  position: relative;
+  right: -819px;
+
+}
+iframe {
+  position: relative;
+  z-index: 0;
+}
+}
+/*@media screen and (max-width: 1024px) and (min-width: 960px) {
+
+.Portal_Open img {
+        right: -862px;
+  }
+  .Boss3 img {
+    right: -934px;
+  }
+  .bars-to-left img {
+    right: -844px;
+  }
+}*/
+@media only screen and (max-width: 950px) {
+	.boom-grid{
+		width: 180px;
+		max-width: 180px;
+		min-width: 180px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+  .boom .flex-row {
+		display: flex;
+	}
+	.boom-grid{
+		width: 250px;
+		max-width: 250px;
+		min-width: 250px;
+	}
+
+}

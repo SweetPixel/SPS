@@ -5,7 +5,7 @@ layout: default
 ---
 <div class="monsterjump">
   <div class="banner" style="width: 48%;">
-  <img style="width: 100%; margin: 0 auto; display: block; padding-top: 86px;" src="/assets/images/monster-jump-title.png" alt="">
+  <img style="width: 100%; margin: 0 auto; display: block; padding-top: 86px;" src="/assets/images/Logo.png" alt="">
   </div>
   <div style="width: 90%; margin: 0 auto;">
     <p class="monsterjump-text" style="padding-top: 77px;">FOR <span style="color: #82e765;"> ANDROID, APPLE TV, IPAD, IPHONE </span></p>
@@ -34,22 +34,22 @@ layout: default
   </div>
   <div class="flex-row">
     <div class="monsterjump-grid">
-      <img class="img-center"  style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monster-Jump-Arcade-Platformer-Game-1.jpg" alt="">
+      <img class="img-center"  style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump1.png" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Free-Zombie-Arcade-Game-2.jpg" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Main-Menu.png" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Top-Monsters-Games-Arcade-3.jpg" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump2.png" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Top-Devil-Action-Arcade-4.jpg" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump3.png" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Arcade-Hopper-Jumping-Game-5.jpg" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump4.png" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white; position: relative; z-index: 3;" src="{{ site.github.url }}/assets/images/3D-Jumping-Game-Spikes-Monster-6.jpg" alt="">
+      <img class="img-center" style="border: 7px solid white; position: relative; z-index: 3;" src="{{ site.github.url }}/assets/images/Monsterjump5.png" alt="">
     </div>
   </div>
   <div class="square">
