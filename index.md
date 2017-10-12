@@ -42,8 +42,8 @@ layout: default
       <img src="{{ site.github.url }}/assets/images/back-stickers/Loading-Bar.png" alt="">
     </div>
     <div class="flex-row">
-    <div class="service" style="position: relative; z-index: 10;">
-      <img class="img-center" src="{{ site.github.url }}/assets/images/Monster-Jump-Top-Arcade-Game-New.svg" alt="">
+    <div class="service margin" style="position: relative; z-index: 10;">
+      <img style="width: 86% !important; border: 7px solid white;" class="img-center" src="{{ site.github.url }}/assets/images/MJ_Website_Title.png" alt="">
       <div class="visit-store-button-monsterjump" style="z-index: 10; position: relative; transform: scale(0.5, 0.5);">
         <a href="{{ site.github.url }}/monsterjump/"  class="visit-button-monsterjump">
 <div class="visit-shadow"></div>
@@ -51,8 +51,14 @@ layout: default
         <div class="spacing"></div>
       </div>
     </div>
-    <div class="service" style="z-index: 10;">
-      <img class="img-center" src="{{ site.github.url }}/assets/images/Boom-Top-Arcade-Action-Game-New.svg" alt="">
+    <div class="service margin" style="z-index: 10;">
+      <img style="position: relative; z-index: 10; width: 86% !important; border: 7px solid white;" class="img-center" src="{{ site.github.url }}/assets/images/BOOM_Website.png" alt="">
+      <div class="visit-store-button-monsterjump" style="z-index: 10; position: relative; transform: scale(0.5, 0.5);">
+        <a href="{{ site.github.url }}/boom/"  class="visit-button-monsterjump">
+<div class="visit-shadow"></div>
+        </a>
+        <div class="spacing"></div>
+      </div>
     </div>
   </div>
     <div class="Sweet-Deadpool">
@@ -104,7 +110,7 @@ layout: default
         </div>
       </footer>
   <div class="footer">
-    <p style="color: #f51484">COPYRIGHT PROTECTED BY THE SWEET OVERLORDS OF DARKNESS</p>
+    <p style="color: #f51484;">COPYRIGHT PROTECTED BY THE SWEET OVERLORDS OF DARKNESS</p>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
