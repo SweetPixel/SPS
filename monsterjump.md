@@ -34,22 +34,22 @@ layout: default
   </div>
   <div class="flex-row">
     <div class="monsterjump-grid">
-      <img class="img-center"  style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump1.png" alt="">
+      <img class="img-center"  style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump1.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Main-Menu.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Main-Menu.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump2.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump2.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump3.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump3.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump4.png" alt="">
+      <img class="img-center" style="border: 7px solid white;" src="{{ site.github.url }}/assets/images/Monsterjump4.jpg" alt="">
     </div>
     <div class="monsterjump-grid">
-      <img class="img-center" style="border: 7px solid white; position: relative; z-index: 3;" src="{{ site.github.url }}/assets/images/Monsterjump5.png" alt="">
+      <img class="img-center" style="border: 7px solid white; position: relative; z-index: 3;" src="{{ site.github.url }}/assets/images/Monsterjump5.jpg" alt="">
     </div>
   </div>
   <div class="square">
