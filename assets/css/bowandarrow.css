@@ -1,0 +1,35 @@
+.bowandarrow {
+  height: 100% !important;
+  height: -moz-available;          /* WebKit-based browsers will ignore this. */
+  height: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+  padding: 10px;
+  background: #e5ea48;
+  background: -webkit-linear-gradient(#e5ea48, #aef148);
+  background: -o-linear-gradient(#e5ea48, #aef148);
+  background: -moz-linear-gradient(#e5ea48, #aef148);
+  background: linear-gradient(#e5ea48, #aef148);
+
+
+}
+/*.freebirdFormviewerViewFormContentWrapper {
+    background: linear-gradient(#e5ea48, #aef148) !important;
+}*/
+textarea.required::placeholder {
+	color: #f51484;
+}
+
+/*@media only screen and (max-width: 1600px) {
+	.contact {
+		height: 700px;
+	}
+
+}*/
+
+@media only screen and (max-width: 1000px) {
+	.bowandarrow {
+		height: 100%;
+  height: -moz-available;          /* WebKit-based browsers will ignore this. */
+  height: -webkit-fill-available;
+	}
+
+}
