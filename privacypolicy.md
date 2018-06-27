@@ -1,19 +1,14 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Socket.IO chat</title>
-    <style>
-      body { font: 13px Helvetica, Arial; }
-      body h3 { margin: 0 }
-      body p { width: 75%; text-align: justify; margin-top: 1%;}
-    </style>
-  </head>
-  <body>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
-    <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
-    
-    <div action="">
+---
+title: About Us - SPS
+permalink: /privacypolicy/
+layout: default
+---
+<div class="about">
+	<div class="banner" style="width: 48%;">
+	  <img style="width: 70%; margin: 0 auto; display: block;" src="{{ '/assets/images/banners/Sweet-Pixel-Studio-Indie-Games-Developer-Logo.png' }}" alt="">
+	  <img src="{{ '/assets/images/banners/Sweet-Pixel-Studio-Games-Developer-Pakistan-UK.svg' }}" alt="">
+	</div>
+	<div action="">
       <h3>Sweet Pixel Studios Privacy Policy</h3>
       <p>
         At SWEETPIXEL STUDIOS (defined here as ‘We’ or ‘Our’), We value your comments, suggestions and feedback. Our Privacy Policy sets out how we collect, use and disclose “personal information” and other “non-personal information” we have gathered about you in relation to our game, (“Game” which term includes the associated website). <br />
@@ -183,5 +178,4 @@
 
 
     </div>
-  </body>
-</html>
+</div>
